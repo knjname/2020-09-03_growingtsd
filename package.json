@@ -1,0 +1,8 @@
+{
+  "name": "2020-09-03_growingtsd",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  }
+}
